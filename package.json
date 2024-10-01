@@ -1,7 +1,7 @@
 {
   "name": "docs-soa",
   "private": true,
-  "homepage": "https://IgnacioCarazo.github.io/docs-soa",
+  "homepage": "https://ignaciocarazo.github.io/docs-soa",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
